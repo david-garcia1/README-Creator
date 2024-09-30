@@ -1,2 +1,2 @@
 # README-Creator
-this will generation a professional readme
+this will generate a professional readme
